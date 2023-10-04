@@ -3,11 +3,12 @@
 This repository holds a collection of beginner-friendly projects that you could create to enhance your skills in **Python**, specifically **Tkinter**.  
 ***
 ### Projects
-- [<u>**ATM</u>**](ATM)
-- [<u>**Calculator</u>**](Calculator)
-- [<u>**Dice Rolling Simulator</u>**](Dice-Rolling-Simulator)
-- [<u>**Multiplication Table</u>**](Multiplication-Table)
-- [<u>**Rock, Paper & Scissors</u>**](Rock,-Paper-&-Scissors)
+- [**ATM**](#atm)
+- [**Calculator**](#calculator)
+- [**Dice Rolling Simulator**](#dice-rolling-simulator)
+- [**Multiplication Table**](#multiplication-table)
+- [**Rock, Paper & Scissors**](#rock-paper--scissors)
+
 ***
 
 - #### ATM
