@@ -1,6 +1,8 @@
 # Tkinter
 ### Love creating Graphical User Interfaces ?  
-This repository holds a collection of beginner-friendly projects that you could create to enhance your skills in **Python**, specifically **Tkinter**.  
+This repository holds a collection of beginner-friendly projects that you could create to enhance your skills in **Python**, specifically **Tkinter**.
+
+Tkinter feels outdated ? Try [**Flet**](#side-note).
 ***
 ### Projects
 - [**ATM**](#atm)
